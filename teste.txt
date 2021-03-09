@@ -4,6 +4,7 @@ Bloco A
 	Linha A2
 	Linha A3
 	Linha A4
+	Linha A5
 
 Bloco B
 	Linha B1
