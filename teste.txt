@@ -1,7 +1,7 @@
 Bloco A
 
 	Linha A1 - Curso A
-	Linha A2
+	Linha A2 - Curso B
 	Linha A3
 	Linha A4
 	Linha A5
