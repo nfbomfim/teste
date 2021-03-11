@@ -1,10 +1,10 @@
 Bloco A
 
-	Linha A1
-	Linha A2
+	Linha A1 - CURSO A
+	Linha A2 - Curso B
 	Linha A3
 	Linha A4
-	Linha A5
+	Linha A5 - Curso E
 
 Bloco B
 	Linha B1
