@@ -4,7 +4,7 @@ Bloco A
 	Linha A2 - Curso B
 	Linha A3
 	Linha A4
-	Linha A5
+	Linha A5 - Curso E
 
 Bloco B
 	Linha B1
