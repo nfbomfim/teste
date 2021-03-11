@@ -11,3 +11,4 @@ Bloco B
 	Linha B2
 	Linha B3
 	Linha B4 Novo
+	Linha B5
