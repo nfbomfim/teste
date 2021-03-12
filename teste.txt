@@ -2,7 +2,7 @@ Bloco A
 
 	Linha A1 - CURSO A
 	Linha A2 - CURSOS B
-	Linha A3
+	Linha A3 - CURSOS C
 	Linha A4
 	Linha A5 - Curso E
 
