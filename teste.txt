@@ -7,8 +7,8 @@ Bloco A
 	Linha A5 - Curso E
 
 Bloco B
-	Linha B1
+	Linha B1 - PARTE 2 -
 	Linha B2
 	Linha B3
-	Linha B4 Novo Novo
+	Linha B4 Novo Novo NOVO
 	Linha B5 - curso b5
