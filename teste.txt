@@ -1,6 +1,6 @@
 Bloco A
 
-	Linha A1 - CURSO A
+	Linha A1 - CURSOS A
 	Linha A2 - CURSOS B
 	Linha A3 - CURSOS C
 	Linha A4 - CURSOS D
