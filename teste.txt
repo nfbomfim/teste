@@ -9,6 +9,6 @@ Bloco A
 Bloco B
 	Linha B1 - PARTE 2 -
 	Linha B2
-	Linha B3 - Curso B3 (user a)
+	Linha B3
 	Linha B4 Novo Novo NOVO
 	Linha B5 - curso b5
