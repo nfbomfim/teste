@@ -8,7 +8,7 @@ Bloco A
 
 Bloco B
 	Linha B1 - PARTE 2 -
-	Linha B2
+	Linha B2 - Alterando para depois
 	Linha B3
 	Linha B4 Alterando antes do que o dexado para depois
 	Linha B5 - curso b5
